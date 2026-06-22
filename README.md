@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
 # 🚀 iprsnmsra's LeetCode Solutions
 
 **Auto-synced by [GitLeet](https://github.com/iprsnmsra/gitleet) Chrome Extension**
 
-[![Easy](https://img.shields.io/badge/Easy-119-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/iprsnmsra/leetcode-solutions/tree/main/easy)
-[![Medium](https://img.shields.io/badge/Medium-235-d29922?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/iprsnmsra/leetcode-solutions/tree/main/medium)
-[![Hard](https://img.shields.io/badge/Hard-73-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/iprsnmsra/leetcode-solutions/tree/main/hard)
-[![Total](https://img.shields.io/badge/Total%20Solved-427-58a6ff?style=for-the-badge)](https://leetcode.com/u/iprsnmsra)
+[![Easy](https://img.shields.io/badge/Easy-119-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/easy)
+[![Medium](https://img.shields.io/badge/Medium-235-d29922?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/medium)
+[![Hard](https://img.shields.io/badge/Hard-73-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/hard)
+[![Total](https://img.shields.io/badge/Total%20Solved-427-58a6ff?style=for-the-badge)](https://leetcode.com/iprsnmsra)
 
 </div>
 
@@ -29,30 +29,38 @@
 ```
 📦 leetcode-solutions/
 ├── 📂 easy/          🟢 Easy problems
+│   └── 📂 0001-two-sum/
+│       ├── 📄 solution.py     ← Source code
+│       └── 📄 notes.md        ← Runtime · Memory · Metadata
 ├── 📂 medium/        🟡 Medium problems
+│   └── 📂 0003-longest-substring-without-repeating-characters/
+│       ├── 📄 solution.py
+│       └── 📄 solution.cpp    ← Multiple languages supported!
 └── 📂 hard/          🔴 Hard problems
+    └── 📂 0042-trapping-rain-water/
+        └── 📄 solution.java
 ```
 
 ---
 
 ## ⚙️ How It Works
 
-Auto-managed by **[GitLeet](https://github.com/iprsnmsra/gitleet)**:
+This repository is auto-managed by **[GitLeet](https://github.com/iprsnmsra/gitleet)** — a Chrome Extension that:
 
-- 🔘 **Commit button** injected on every LeetCode problem page
-- ⚡ **Bulk-sync** entire acceptance history in one click
-- 🗂️ Organises by difficulty: easy/ · medium/ · hard/`n- 📝 Creates 
-otes.md per problem with runtime & memory stats
-- 🌐 Supports **15+ languages** (Python, C++, Java, JS, Go, Rust ...)
-- 📊 **Auto-updates this README** after every commit
+- 🔘 Injects a **"Commit to GitHub"** button directly on every LeetCode problem page
+- ⚡ Lets you **bulk-sync your entire acceptance history** with one click
+- 🗂️ Organises solutions by difficulty: `easy/` · `medium/` · `hard/`
+- 📝 Creates a `notes.md` per problem with runtime, memory & submission metadata
+- 🌐 Supports **15+ programming languages** (Python, C++, Java, JS, Go, Rust …)
+- 📊 **Auto-updates this README** with live stats after every commit
 
 ---
 
 <div align="center">
 
-*Last synced: **June 22, 2026 at 06:32 PM UTC***
+*Last synced: **June 22, 2026 at 06:49 PM GMT+5:30***
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-iprsnmsra-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/iprsnmsra)
+[![Profile](https://img.shields.io/badge/LeetCode-iprsnmsra-FFA116?style=flat&logo=leetcode)](https://leetcode.com/iprsnmsra)
 [![GitHub](https://img.shields.io/badge/GitHub-iprsnmsra-181717?style=flat&logo=github)](https://github.com/iprsnmsra)
 
 </div>
