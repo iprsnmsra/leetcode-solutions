@@ -5,7 +5,7 @@
 | **Difficulty** | Medium |
 | **Problem ID** | #4142 |
 | **Language**   | C++ |
-| **Runtime**    | 4ms (beats 92.2%) |
+| **Runtime**    | 4ms (beats 92.3%) |
 | **Memory**     | 192.4 MB (beats 53.3%) |
 | **Submitted**  | 2026-06-06 |
 
