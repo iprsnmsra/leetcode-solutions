@@ -6,7 +6,7 @@
 | **Problem ID** | #4182 |
 | **Language**   | C++ |
 | **Runtime**    | 110ms (beats 87.7%) |
-| **Memory**     | 153.5 MB (beats 76.0%) |
+| **Memory**     | 153.5 MB (beats 76.1%) |
 | **Submitted**  | 2026-06-06 |
 
 🔗 [View on LeetCode](https://leetcode.com/problems/maximum-score-with-co-prime-element/)
