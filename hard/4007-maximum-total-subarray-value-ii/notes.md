@@ -5,7 +5,7 @@
 | **Difficulty** | Hard |
 | **Problem ID** | #4007 |
 | **Language**   | C++ |
-| **Runtime**    | 603ms (beats 45.3%) |
+| **Runtime**    | 603ms (beats 45.4%) |
 | **Memory**     | 338.4 MB (beats 9.3%) |
 | **Submitted**  | 2026-06-10 |
 
