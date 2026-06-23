@@ -5,7 +5,7 @@
 | **Difficulty** | Medium |
 | **Problem ID** | #240 |
 | **Language**   | C++ |
-| **Runtime**    | 45ms (beats 85.4%) |
+| **Runtime**    | 45ms (beats 85.3%) |
 | **Memory**     | 18 MB (beats 99.9%) |
 | **Submitted**  | 2026-06-07 |
 
