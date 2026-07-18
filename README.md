@@ -4,10 +4,10 @@
 
 **Auto-synced by [GitLeet](https://github.com/iprsnmsra/gitleet) Chrome Extension**
 
-[![Easy](https://img.shields.io/badge/Easy-126-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/easy)
+[![Easy](https://img.shields.io/badge/Easy-127-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/easy)
 [![Medium](https://img.shields.io/badge/Medium-257-d29922?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/medium)
 [![Hard](https://img.shields.io/badge/Hard-83-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/hard)
-[![Total](https://img.shields.io/badge/Total%20Solved-466-58a6ff?style=for-the-badge)](https://leetcode.com/iprsnmsra)
+[![Total](https://img.shields.io/badge/Total%20Solved-467-58a6ff?style=for-the-badge)](https://leetcode.com/iprsnmsra)
 
 </div>
 
@@ -17,10 +17,10 @@
 
 | Difficulty | Solved |
 |:---|:---:|
-| 🟢 **Easy** | **126** |
+| 🟢 **Easy** | **127** |
 | 🟡 **Medium** | **257** |
 | 🔴 **Hard** | **83** |
-| ⚡ **Total** | **466** |
+| ⚡ **Total** | **467** |
 
 ---
 
@@ -58,7 +58,7 @@ This repository is auto-managed by **[GitLeet](https://github.com/iprsnmsra/gitl
 
 <div align="center">
 
-*Last synced: **July 17, 2026 at 11:45 PM GMT+5:30***
+*Last synced: **July 18, 2026 at 11:11 PM GMT+5:30***
 
 [![Profile](https://img.shields.io/badge/LeetCode-iprsnmsra-FFA116?style=flat&logo=leetcode)](https://leetcode.com/iprsnmsra)
 [![GitHub](https://img.shields.io/badge/GitHub-iprsnmsra-181717?style=flat&logo=github)](https://github.com/iprsnmsra)
