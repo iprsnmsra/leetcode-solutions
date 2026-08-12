@@ -1,0 +1,5 @@
+import pandas as pd
+
+def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
+    # Logic remains flawlessly the same!
+    return students.dropna(subset=['name'])
