@@ -6,8 +6,8 @@
 
 [![Easy](https://img.shields.io/badge/Easy-141-00d084?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/easy)
 [![Medium](https://img.shields.io/badge/Medium-272-d29922?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/medium)
-[![Hard](https://img.shields.io/badge/Hard-91-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/hard)
-[![Total](https://img.shields.io/badge/Total%20Solved-504-58a6ff?style=for-the-badge)](https://leetcode.com/iprsnmsra)
+[![Hard](https://img.shields.io/badge/Hard-92-f85149?style=for-the-badge&logo=leetcode&logoColor=white)](leetcode--solutions/tree/main/hard)
+[![Total](https://img.shields.io/badge/Total%20Solved-505-58a6ff?style=for-the-badge)](https://leetcode.com/iprsnmsra)
 
 </div>
 
@@ -19,8 +19,8 @@
 |:---|:---:|
 | 🟢 **Easy** | **141** |
 | 🟡 **Medium** | **272** |
-| 🔴 **Hard** | **91** |
-| ⚡ **Total** | **504** |
+| 🔴 **Hard** | **92** |
+| ⚡ **Total** | **505** |
 
 ---
 
@@ -58,7 +58,7 @@ This repository is auto-managed by **[GitLeet](https://github.com/iprsnmsra/gitl
 
 <div align="center">
 
-*Last synced: **August 12, 2026 at 08:27 PM GMT+5:30***
+*Last synced: **August 13, 2026 at 06:19 PM GMT+5:30***
 
 [![Profile](https://img.shields.io/badge/LeetCode-iprsnmsra-FFA116?style=flat&logo=leetcode)](https://leetcode.com/iprsnmsra)
 [![GitHub](https://img.shields.io/badge/GitHub-iprsnmsra-181717?style=flat&logo=github)](https://github.com/iprsnmsra)
