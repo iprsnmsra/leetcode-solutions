@@ -1,0 +1,30 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+
+using namespace std;
+
+class Solution {
+public:
+    int firstStableIndex(vector<int>& nums, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        int n = nums.size();
+        vector<int> suffix_min(n); 
+        suffix_min[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; --i) {
+            suffix_min[i] = min(nums[i], suffix_min[i + 1]);
+        }
+        int running_max = -1; 
+        
+        for (int i = 0; i < n; ++i) {
+            running_max = max(running_max, nums[i]);
+            if (running_max - suffix_min[i] <= k) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+};
