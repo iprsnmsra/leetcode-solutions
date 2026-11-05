@@ -6,7 +6,7 @@
 | **Problem ID** | #389 |
 | **Language**   | C++ |
 | **Runtime**    | N/Ams (beats 100.0%) |
-| **Memory**     | 9.2 MB (beats 51.8%) |
+| **Memory**     | 9.2 MB (beats 45.2%) |
 | **Submitted**  | 2026-07-28 |
 
 🔗 [View on LeetCode](https://leetcode.com/problems/find-the-difference/)
